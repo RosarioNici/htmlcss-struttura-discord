@@ -79,3 +79,24 @@ button {
     flex-wrap: wrap;
     flex-grow: 1;
 }
+
+/* Content footer */
+.containerf {
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+    padding-top: 50px;
+    margin: 0 auto;
+    height: 100vh;
+    max-width: 1200px;
+
+}
+
+footer {
+    background-color: hsl(206deg 9% 15%);
+}
+
+.footer-menu {
+    display: flex;
+    flex-direction: column;
+}
