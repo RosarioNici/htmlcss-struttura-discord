@@ -52,6 +52,14 @@ button {
 
 }
 
+#mac {
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px aliceblue;
+    background-color: aliceblue;
+}
+
 /* end content header */
 /* content main */
 .container {
