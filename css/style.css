@@ -32,6 +32,17 @@ header {
     background-color: hsl(224deg 74% 54%);
 }
 
+.buttons {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 30px;
+}
+
+button {
+    margin: 10px;
+}
+
 
 .actions {
     max-width: 500px;
